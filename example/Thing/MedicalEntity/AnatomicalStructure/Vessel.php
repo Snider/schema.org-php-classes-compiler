@@ -1,0 +1,4 @@
+<?php
+
+class Thing_MedicalEntity_AnatomicalStructure_Vessel extends Thing_MedicalEntity_AnatomicalStructure{
+}

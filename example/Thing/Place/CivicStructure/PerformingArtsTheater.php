@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Place_CivicStructure_PerformingArtsTheater extends Thing_Place_CivicStructure{
+}

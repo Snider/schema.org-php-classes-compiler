@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Organization_LocalBusiness_AutomotiveBusiness_MotorcycleRepair extends Thing_Organization_LocalBusiness_AutomotiveBusiness{
+}

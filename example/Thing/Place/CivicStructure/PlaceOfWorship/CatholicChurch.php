@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Place_CivicStructure_PlaceOfWorship_CatholicChurch extends Thing_Place_CivicStructure_PlaceOfWorship{
+}

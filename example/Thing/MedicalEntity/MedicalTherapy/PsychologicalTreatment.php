@@ -1,0 +1,4 @@
+<?php
+
+class Thing_MedicalEntity_MedicalTherapy_PsychologicalTreatment extends Thing_MedicalEntity_MedicalTherapy{
+}

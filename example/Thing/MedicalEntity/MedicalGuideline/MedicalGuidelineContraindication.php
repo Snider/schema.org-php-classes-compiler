@@ -1,0 +1,4 @@
+<?php
+
+class Thing_MedicalEntity_MedicalGuideline_MedicalGuidelineContraindication extends Thing_MedicalEntity_MedicalGuideline{
+}

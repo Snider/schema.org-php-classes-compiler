@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Organization_LocalBusiness_HealthAndBeautyBusiness_HealthClub extends Thing_Organization_LocalBusiness_HealthAndBeautyBusiness{
+}

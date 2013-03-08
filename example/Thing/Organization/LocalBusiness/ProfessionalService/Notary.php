@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Organization_LocalBusiness_ProfessionalService_Notary extends Thing_Organization_LocalBusiness_ProfessionalService{
+}

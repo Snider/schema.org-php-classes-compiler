@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Organization_LocalBusiness_FoodEstablishment_CafeOrCoffeeShop extends Thing_Organization_LocalBusiness_FoodEstablishment{
+}

@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Organization_LocalBusiness_SportsActivityLocation_BowlingAlley extends Thing_Organization_LocalBusiness_SportsActivityLocation{
+}

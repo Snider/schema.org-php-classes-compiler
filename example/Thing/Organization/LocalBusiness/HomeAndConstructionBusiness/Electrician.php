@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Organization_LocalBusiness_HomeAndConstructionBusiness_Electrician extends Thing_Organization_LocalBusiness_HomeAndConstructionBusiness{
+}

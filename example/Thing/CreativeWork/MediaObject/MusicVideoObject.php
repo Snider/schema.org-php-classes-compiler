@@ -1,0 +1,4 @@
+<?php
+
+class Thing_CreativeWork_MediaObject_MusicVideoObject extends Thing_CreativeWork_MediaObject{
+}

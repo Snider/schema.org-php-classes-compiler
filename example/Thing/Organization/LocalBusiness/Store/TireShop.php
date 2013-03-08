@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Organization_LocalBusiness_Store_TireShop extends Thing_Organization_LocalBusiness_Store{
+}

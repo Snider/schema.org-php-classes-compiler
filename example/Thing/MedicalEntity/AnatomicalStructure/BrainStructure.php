@@ -1,0 +1,4 @@
+<?php
+
+class Thing_MedicalEntity_AnatomicalStructure_BrainStructure extends Thing_MedicalEntity_AnatomicalStructure{
+}

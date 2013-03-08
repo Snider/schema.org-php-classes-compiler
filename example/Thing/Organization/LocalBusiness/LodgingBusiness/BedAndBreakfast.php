@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Organization_LocalBusiness_LodgingBusiness_BedAndBreakfast extends Thing_Organization_LocalBusiness_LodgingBusiness{
+}

@@ -1,0 +1,4 @@
+<?php
+
+class Thing_CreativeWork_WebPageElement_SiteNavigationElement extends Thing_CreativeWork_WebPageElement{
+}

@@ -56,6 +56,9 @@ foreach($builder->schema->types as $key => $type){
 
 //var_dump(get_object_vars($json->types));
 
+$event = new Thing_Place();
+
+$event->geo = new Thing_Intangible_StructuredValue_GeoCoordinates();
 
 
 

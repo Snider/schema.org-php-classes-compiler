@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Place_CivicStructure_GovernmentBuilding_Embassy extends Thing_Place_CivicStructure_GovernmentBuilding{
+}

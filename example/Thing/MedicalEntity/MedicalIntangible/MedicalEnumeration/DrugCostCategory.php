@@ -1,0 +1,4 @@
+<?php
+
+class Thing_MedicalEntity_MedicalIntangible_MedicalEnumeration_DrugCostCategory extends Thing_MedicalEntity_MedicalIntangible_MedicalEnumeration{
+}

@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Organization_LocalBusiness_DryCleaningOrLaundry extends Thing_Organization_LocalBusiness{
+}

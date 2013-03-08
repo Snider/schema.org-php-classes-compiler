@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Organization_LocalBusiness_MedicalOrganization_Optician extends Thing_Organization_LocalBusiness_MedicalOrganization{
+}

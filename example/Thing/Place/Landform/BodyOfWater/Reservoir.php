@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Place_Landform_BodyOfWater_Reservoir extends Thing_Place_Landform_BodyOfWater{
+}

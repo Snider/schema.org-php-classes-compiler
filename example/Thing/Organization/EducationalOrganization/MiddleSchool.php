@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Organization_EducationalOrganization_MiddleSchool extends Thing_Organization_EducationalOrganization{
+}

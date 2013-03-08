@@ -1,0 +1,4 @@
+<?php
+
+class Thing_MedicalEntity_MedicalIntangible_DoseSchedule_MaximumDoseSchedule extends Thing_MedicalEntity_MedicalIntangible_DoseSchedule{
+}

@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Intangible_Enumeration_DeliveryMethod_ParcelService extends Thing_Intangible_Enumeration_DeliveryMethod{
+}

@@ -1,0 +1,4 @@
+<?php
+
+class Thing_Organization_PerformingGroup_DanceGroup extends Thing_Organization_PerformingGroup{
+}

@@ -1,0 +1,4 @@
+<?php
+
+class Thing_MedicalEntity_MedicalIntangible_MedicalEnumeration_DrugPrescriptionStatus extends Thing_MedicalEntity_MedicalIntangible_MedicalEnumeration{
+}
