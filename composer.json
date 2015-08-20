@@ -1,5 +1,5 @@
 {
-    "name": "thinkink/schema",
+    "name": "thinkink/schemaClass",
     "description": "Schema classes, as defined in schema.org.",
     "license": "MIT",
 	 "autoload": {
