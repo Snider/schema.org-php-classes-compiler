@@ -1,0 +1,16 @@
+{
+    "name": "thinkink/schema",
+    "description": "Schema classes, as defined in schema.org.",
+    "license": "MIT",
+	 "autoload": {
+        "psr-4": {"Thing\\": "schema/"}
+    },
+    "authors": [
+        {
+            "name": "Thinkink Pagink",
+            "email": "thinkink@thinkink.es"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
