@@ -6,9 +6,15 @@
         "psr-4": {"Thing\\": "schema/"}
     },
     "authors": [
+    	{
+    		"name" : "Paul Lashbrook",
+    		"email": "lashbrook.paul@gmail.com",
+    		"role" : "developer"
+    	},
         {
             "name": "Thinkink Pagink",
-            "email": "thinkink@thinkink.es"
+            "email": "thinkink@thinkink.es",
+            "role" : "contributor"
         }
     ],
     "minimum-stability": "stable",
