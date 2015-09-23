@@ -8,3 +8,4 @@ if people find this useful i will add and polish the script... otherwise just do
 main use i guess is to get code sense to work on your IDE without having to manually type the parts of the schema.org def you actually use.
 
 the script pulls the current version as a json object from http://schema.rdfs.org/all.json
+
